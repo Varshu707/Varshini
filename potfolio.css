@@ -1,0 +1,54 @@
+h1{
+      border: 20cap;
+      color: blueviolet;
+      text-align: left;
+      padding: 10px;
+
+}
+h2{
+      border-radius: 20cap;
+      color: purple;
+      text-align: left;
+      padding: 10px;
+}
+h3{
+      border-radius: 20cap;
+      color: azure;
+      padding: 10px;
+
+
+}
+p{
+      color: tomato;
+      padding-left:10px ;
+      padding: 10px;
+
+}
+img{
+      clip-path: circle();
+      
+      
+}
+body{
+      background-color: rgb(156, 168, 190);
+}
+h6{
+      justify-content: right;
+      font-size: large;
+      
+}
+h5{
+      justify-items: right;
+      font-style:bold; 
+      font-size: medium;
+      justify-content: start;
+      
+      
+      
+}
+div{
+      display: inline-block;
+      display: flex;
+      justify-content: end;
+      flex-direction: row;
+}

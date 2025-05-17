@@ -1,8 +1,11 @@
 h1{
+
       border: 20cap;
       color: blueviolet;
       text-align: left;
       padding: 10px;
+      align-items: top;
+      
 
 }
 h2{
@@ -12,6 +15,7 @@ h2{
       padding: 10px;
 }
 h3{
+
       border-radius: 20cap;
       color: azure;
       padding: 10px;
@@ -19,6 +23,7 @@ h3{
 
 }
 p{
+
       color: tomato;
       padding-left:10px ;
       padding: 10px;
@@ -33,6 +38,7 @@ body{
       background-color: rgb(156, 168, 190);
 }
 h6{
+      
       justify-content: right;
       font-size: large;
       
